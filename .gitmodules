@@ -1,18 +1,18 @@
 [submodule "crosstools"]
 	path = crosstools
-	url = https://github.com/OpenNoahEdu/ingenic-jz-crosstools-src.git
+	url = ../ingenic-jz-crosstools-src.git
 [submodule "unpkg"]
 	path = unpkg
-	url = https://github.com/OpenNoahEdu/np_unpkg.git
+	url = ../np_unpkg.git
 [submodule "qemu-JZ"]
 	path = qemu-JZ
-	url = https://github.com/OpenNoahEdu/qemu-JZ.git
+	url = ../qemu-JZ.git
 [submodule "np_tools"]
 	path = np_tools
-	url = https://github.com/OpenNoahEdu/np_tools.git
+	url = ../np_tools.git
 [submodule "u-boot"]
 	path = u-boot
-	url = https://github.com/OpenNoahEdu/np_u-boot.git
+	url = ../np_u-boot.git
 [submodule "linux"]
 	path = linux
-	url = https://github.com/OpenNoahEdu/np_linux.git
+	url = ../np_linux.git
